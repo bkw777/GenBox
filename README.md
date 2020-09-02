@@ -1,15 +1,15 @@
 # GenBox
 Generator Enclosure that's both quiet and ventilated.
 
-[![Video of the process of assembling and using the GenBox](https://img.youtube.com/vi/45hlJgdnrtI/hqdefault.jpg)](https://youtu.be/45hlJgdnrtI "Assembling & using the GenBox")
+|[![Video of the process of assembling and using the GenBox](https://img.youtube.com/vi/45hlJgdnrtI/hqdefault.jpg)](https://youtu.be/45hlJgdnrtI "Assembling & using the GenBox")|
+|:---:|
+|![](GenBox_1.jpg)|
+|![](GenBox_2.jpg)|
+|![](GenBox_3.jpg)|
+|![](GenBox_4.jpg)|
+|![](GenBox_5.jpg)|
+|![](GenBox_6.jpg)|
 
-| --- |
-| ![](GenBox_1.jpg) |
-| ![](GenBox_2.jpg) |
-| ![](GenBox_3.jpg) |
-| ![](GenBox_4.jpg) |
-| ![](GenBox_5.jpg) |
-| ![](GenBox_6.jpg) |
 
 | Steps to Deploy |
 | --- |
@@ -20,9 +20,12 @@ Generator Enclosure that's both quiet and ventilated.
 | ![](Deploy_Step_5.jpg) |
 | ![](Deploy_Step_6.jpg) |
 
+## Building
+
 | Baffle Box. Build 2 identical copies of this |
 | --- |
 | ![](Baffle_Box_frame_top_detail.jpg) |
+
 
 | Inlet Wall |
 | --- |
@@ -30,20 +33,25 @@ Generator Enclosure that's both quiet and ventilated.
 | ![](Inlet_Wall_1.jpg) |
 | ![](Inlet_Wall_2.jpg) |
 
-| Inlex Box |
+
+| Inlet Box |
 | --- |
 | ![](Inlet_Box_1.jpg) |
 | ![](Inlet_Box_2.jpg) |
 | ![](Inlet_Box_3.jpg) |
+
 
 | Outlet Box |
 | --- |
 | ![](Outlet_Box_1.jpg) |
 | ![](Outlet_Box_2.jpg) |
 
+
 | Lid |
 | --- |
 | ![](Lid_1.jpg) |
+
+<b>Photos: https://goo.gl/photos/VuZsvcwMcuBNV2xo6<b>
 
 ## Theory of Operation
 * The main interior box is simple, with no exhaust piping breaking the barrier from inside to outside.  
@@ -112,6 +120,44 @@ Generator Enclosure that's both quiet and ventilated.
 
 ## Build Plans
 Currently the only plans are the FreeCAD file and the pictures in the Google Photos album. The photo album includes a few pictures of some hand drawn sketches. A few of the dimensions are slightly wrong on those drawings. Refer to the FreeCAD model for actual dimensions. Refer to those pictures for the general layout of how to arrange the pieces to cut from the plywood sheets. I will be making up some build plans from the cad model shortly.
+
+## Materials
+(incomplete list)
+
+* Fan: https://www.mouser.com/ProductDetail/Orion-Fans/OA280AN-11-1TB18?qs=d%2Fd7jy5RWDpBQnumC7OAIg%3D%3D  
+ If you want to look for other fans: You need a fan that fits in the available space and can push at least 1100 CFM.  
+ Here are a few drop-in replacement model numbers:  
+ https://www.mouser.com/ProductDetail/Qualtek/FDA2-28080NBHK4F?qs=AAveGqk956HBL0KfxwrxvA%3D%3D  
+ https://www.mouser.com/ProductDetail/ebm-papst/W2E250-HJ32-01?qs=kakCB4mkm8p8%2FT7UZOSVHA%3D%3D  
+
+* 2 x 4x8 sheet 3/4" pressure treated plywood
+
+* 1 x 4x8 sheet 1/2" pressure treated plywood
+
+* ?? feet 2x2 pressure treated
+
+* ?? feet 1x1x1/8 angle iron
+ (TODO: show on drawings, goes inside short frame rails on lid to prevent warping from rain)
+
+* exterior wood glue
+
+* ?? lbs 1 1/4" #8 stainless wood screw  
+  ?? #8 stainless washers  
+
+1/4-20 stainless screws (long)  
+1/4" stainless whashers  
+1/4-20 stainless T-nuts  
+anti-seize  
+
+carpet  
+staples  
+heat shield  
+alu flat stock and tow strap for handles  
+... more
+
+
+ 
+
 
 ## TODO
 * Power cord routing and access to outlets  
