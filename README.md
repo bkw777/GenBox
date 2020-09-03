@@ -3,13 +3,7 @@ Generator Enclosure that's both quiet and ventilated.
 
 |[![Video of the process of assembling and using the GenBox](https://img.youtube.com/vi/45hlJgdnrtI/hqdefault.jpg)](https://youtu.be/45hlJgdnrtI "Assembling & using the GenBox")|
 |:---:|
-|![](GenBox_1.jpg)|
-|![](GenBox_2.jpg)|
-|![](GenBox_3.jpg)|
-|![](GenBox_4.jpg)|
-|![](GenBox_5.jpg)|
-|![](GenBox_6.jpg)|
-
+|![](Assembly_1.jpg)|
 
 | Steps to Deploy |
 | --- |
@@ -24,32 +18,43 @@ Generator Enclosure that's both quiet and ventilated.
 
 | Baffle Box. Build 2 identical copies of this |
 | --- |
-| ![](Baffle_Box_frame_top_detail.jpg) |
-
+| ![](Baffle_Box_inside_1.jpg) |
+| ![](Baffle_Box_inside_2.jpg) |
+| ![](Baffle_Box_inside_3.jpg) |
+| ![](Baffle_Box_panel_fasteners_1.jpg) |
+| ![](Baffle_Box_top_1.jpg) |
+| ![](Baffle_Box_top_2.jpg) |
+| ![](Baffle_Box_top_3.jpg) |
+| ![](Baffle_Box_top_half_wall_anchor_1.jpg) |
+| ![](Baffle_Box_top_half_wall_anchor_3.jpg) |
 
 | Inlet Wall |
 | --- |
+| ![](Fan_Mount_Exploded_1.jpg) |
 | ![](Fan_Pocket_detail_1.jpg) |
 | ![](Inlet_Wall_1.jpg) |
 | ![](Inlet_Wall_2.jpg) |
 
-
 | Inlet Box |
 | --- |
-| ![](Inlet_Box_1.jpg) |
-| ![](Inlet_Box_2.jpg) |
-| ![](Inlet_Box_3.jpg) |
-
+| ![](Inlet_Box_Exploded_1.jpg) |
+| ![](Inlet_Box_Exploded_2.jpg) |
+| ![](Inlet_Box_Assembled_1.jpg) |
+| ![](Inlet_Box_Assembled_2.jpg) |
 
 | Outlet Box |
 | --- |
+| ![](Outlet_Box_Exploded_1.jpg) |
+| ![](Outlet_Box_Exploded_2.jpg) |
 | ![](Outlet_Box_1.jpg) |
 | ![](Outlet_Box_2.jpg) |
 
 
 | Lid |
 | --- |
+| ![](Lid_Screws_1.jpg) |
 | ![](Lid_1.jpg) |
+| ![](Lid_2.jpg) |
 
 <b>Photos: https://goo.gl/photos/VuZsvcwMcuBNV2xo6<b>
 
