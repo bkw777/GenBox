@@ -52,9 +52,9 @@ Generator Enclosure that's both quiet and ventilated.
 
 | Lid |
 | --- |
-| ![](Lid_Screws_1.jpg) |
-| ![](Lid_1.jpg) |
-| ![](Lid_2.jpg) |
+| ![](Lid_top.jpg) |
+| ![](Lid_top_trans.jpg) |
+| ![](Lid_under.jpg) |
 
 <b>Photos: https://goo.gl/photos/VuZsvcwMcuBNV2xo6<b>
 
