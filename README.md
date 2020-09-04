@@ -3,58 +3,63 @@ Generator Enclosure that's both quiet and ventilated.
 
 |[![Video of the process of assembling and using the GenBox](https://img.youtube.com/vi/45hlJgdnrtI/hqdefault.jpg)](https://youtu.be/45hlJgdnrtI "Assembling & using the GenBox")|
 |:---:|
-|![](Assembly_1.jpg)|
+|![](img/Assembly_1.jpg)|
 
 | Steps to Deploy |
 | --- |
-| ![](Deploy_Step_1.jpg) |
-| ![](Deploy_Step_2.jpg) |
-| ![](Deploy_Step_3.jpg) |
-| ![](Deploy_Step_4.jpg) |
-| ![](Deploy_Step_5.jpg) |
-| ![](Deploy_Step_6.jpg) |
+| ![](img/Deploy_Step_1.jpg) |
+| ![](img/Deploy_Step_2.jpg) |
+| ![](img/Deploy_Step_3.jpg) |
+| ![](img/Deploy_Step_4.jpg) |
+| ![](img/Deploy_Step_5.jpg) |
+| ![](img/Deploy_Step_6.jpg) |
 
-## Building
+## Main Components / Sub-Assemblies
 
-| Baffle Box. Build 2 identical copies of this |
+| Baffle Box. Build 2 identical copies of these |
 | --- |
-| ![](Baffle_Box_inside_1.jpg) |
-| ![](Baffle_Box_inside_2.jpg) |
-| ![](Baffle_Box_inside_3.jpg) |
-| ![](Baffle_Box_panel_fasteners_1.jpg) |
-| ![](Baffle_Box_top_1.jpg) |
-| ![](Baffle_Box_top_2.jpg) |
-| ![](Baffle_Box_top_3.jpg) |
-| ![](Baffle_Box_top_half_wall_anchor_1.jpg) |
-| ![](Baffle_Box_top_half_wall_anchor_3.jpg) |
+| ![](img/Baffle_Box_inside_1.jpg) |
+| ![](img/Baffle_Box_inside_2.jpg) |
+| ![](img/Baffle_Box_inside_3.jpg) |
+| ![](img/Baffle_Box_panel_fasteners_1.jpg) |
+| ![](img/Baffle_Box_top_1.jpg) |
+| ![](img/Baffle_Box_top_2.jpg) |
+| ![](img/Baffle_Box_top_3.jpg) |
+| ![](img/Baffle_Box_top_half_wall_anchor_1.jpg) |
+| ![](img/Baffle_Box_top_half_wall_anchor_3.jpg) |
 
 | Inlet Wall |
 | --- |
-| ![](Fan_Mount_Exploded_1.jpg) |
-| ![](Fan_Pocket_detail_1.jpg) |
-| ![](Inlet_Wall_1.jpg) |
-| ![](Inlet_Wall_2.jpg) |
+| ![](img/Fan_Mount_Exploded_1.jpg) |
+| ![](img/Fan_Pocket_detail_1.jpg) |
+| ![](img/Inlet_Wall_1.jpg) |
+| ![](img/Inlet_Wall_2.jpg) |
+
+| Outlet Wall |
+| --- |
+| ![](img/Outlet_Wall_1.jpg) |
 
 | Inlet Box |
 | --- |
-| ![](Inlet_Box_Exploded_1.jpg) |
-| ![](Inlet_Box_Exploded_2.jpg) |
-| ![](Inlet_Box_Assembled_1.jpg) |
-| ![](Inlet_Box_Assembled_2.jpg) |
+| Bolt a Baffle Box to the Inlet Wall to make the Inlet Box. |
+| ![](img/Inlet_Box_Exploded_1.jpg) |
+| ![](img/Inlet_Box_Exploded_2.jpg) |
+| ![](img/Inlet_Box_Assembled_1.jpg) |
+| ![](img/Inlet_Box_Assembled_2.jpg) |
 
 | Outlet Box |
 | --- |
-| ![](Outlet_Box_Exploded_1.jpg) |
-| ![](Outlet_Box_Exploded_2.jpg) |
-| ![](Outlet_Box_1.jpg) |
-| ![](Outlet_Box_2.jpg) |
-
+| Bolt a Baffle Box to the Outlet Wall to make the Outlet Box. |
+| ![](img/Outlet_Box_Exploded_1.jpg) |
+| ![](img/Outlet_Box_Exploded_2.jpg) |
+| ![](img/Outlet_Box_1.jpg) |
+| ![](img/Outlet_Box_2.jpg) |
 
 | Lid |
 | --- |
-| ![](Lid_top.jpg) |
-| ![](Lid_top_trans.jpg) |
-| ![](Lid_under.jpg) |
+| ![](img/Lid_top.jpg) |
+| ![](img/Lid_top_trans.jpg) |
+| ![](img/Lid_under.jpg) |
 
 <b>Photos: https://goo.gl/photos/VuZsvcwMcuBNV2xo6<b>
 
@@ -62,24 +67,26 @@ Generator Enclosure that's both quiet and ventilated.
 * The main interior box is simple, with no exhaust piping breaking the barrier from inside to outside.  
  This gives several advantages:  
   Flexible: You can use any generator that fits, because there is no exhaust piping which would need to be custom fit.  
-  Simple to use: You don't need to do anything special to fit the generator.
+  Simple to use: You don't need to do anything special to fit the generator.  
   Quieter: Fewer holes in the main box, and no parts breaching from inside to outside, which would transmit noise from inside to outside (exhaust piping).  
-  More weather resistant: Fewer seams to leak.
+  More weather resistant: Fewer seams to leak.  
 
 * The simple interior box means that heat and exhaust gas must be actively vented with a non-trivial fan.  
  So, there is a non-trivial fan built in to the inlet wall. The fan is on the inlet wall rather then the outlet, so that the fan does not have to deal with the heat and corrosiveness of the exhaust gas. The placement of the fan also naturally protects it from weather, lets the baffle box block the sound from the fan itself as well as the generator, and protects kids and pets and yourself from the fan blades. The fan is very powerful and the blades are steel. The fan is dangerous.
 
 * Sound is prevented from projecting out of the inlet and outlet openings by simply being forced around a 180 degree bend. Both the inlet and outlet baffle boxes have a simple arrangement where the air enters on the bottom-left, exits on the bottom-right, and goes over a wall half-the height of the box in between, forming a large, not-very-restrictive, yet still 180 degree turn. The inside surfaces of the baffle boxes are also lined with thin indoor-outdoor carpet, to reduce sound reflection off the plywood surfaces without restricting airflow.
  
- Air passes fairly easily around the bend and through the box, sound is mostly stopped at the bend.
+ Air passes fairly easily around the bend and through the box, but sound is mostly stopped at the bend.
  
  * The lid has an internal lip that goes all the way around, which covers the gap between the lid and the walls.
  
- * There is no bottom. You just place the generatore and the box directly on grass or dirt, or, for hard flat surfaces put down a cheap 3x5 carpet.
+ * There is no bottom. You just place the box directly on grass or dirt, or, for hard flat surfaces put down a cheap 3x5 carpet.
  
  * Saftey wrt the fan and heat: The fan is a harsh environment model and very robust, but it is still a point of failure, but not a source of danger from overheating when the fan fails. When the fan fails, the generator quickly consumes all the oxygen in the box and dies before getting much hotter. If the fan were to become merely weak/slow without stopping altogether, that could be a problem.
  
  * Safety wrt the exhaust being inside the box: The exhaust blows directly against one inside wall from only a few inches away. There is heat shielding on that spot, shown in the some pictures in the photo album, not shown in the CAD drawing yet.  
+
+ * Route the generator cord through the outlet air passage, don't pinch it under a side wall.  
 
 ## Design Goals
 * Quiet  
@@ -124,7 +131,7 @@ Generator Enclosure that's both quiet and ventilated.
 * Longevity: The unit in the video is now over 5 years old, and has been sitting, assembled, outside at the corner of my house for all that time, with the generator inside it. The generator and the fan are still both fine. The wood is all still solid. The deck paint has started to flake off and moss has grown all around the base on the 3x5 carpet and the bottom few inches of wood. The heat from the exhast has degraded the shag carpet on the inside wall right where the exhaust blows.
 
 ## Build Plans
-Currently the only plans are the FreeCAD file and the pictures in the Google Photos album. The photo album includes a few pictures of some hand drawn sketches. A few of the dimensions are slightly wrong on those drawings. Refer to the FreeCAD model for actual dimensions. Refer to those pictures for the general layout of how to arrange the pieces to cut from the plywood sheets. I will be making up some build plans from the cad model shortly.
+Currently the only plans are the FreeCAD drawings and the pictures in the Google Photos album. The photo album includes a few pictures of some hand drawn sketches. A few of the dimensions are slightly wrong on those drawings. Refer to the FreeCAD model for actual dimensions. Refer to those pictures for the general layout of how to arrange the pieces to cut from the plywood sheets. I will be making up some build plans from the cad model shortly.
 
 ## Materials
 (incomplete list)
@@ -141,28 +148,53 @@ Currently the only plans are the FreeCAD file and the pictures in the Google Pho
 
 * ?? feet 2x2 pressure treated
 
-* ?? feet 1x1x1/8 angle iron
- (TODO: show on drawings, goes inside short frame rails on lid to prevent warping from rain)
+* ?? feet 1x1x1/8 angle iron  
+ (TODO: show on drawings, goes inside short frame rails on lid to prevent warping)
 
-* exterior wood glue
+* Exterior construction glue / caulk - todo: research pressure treated compatible, marine options? I used Liquid Nails. Name sounds awesome, but product seems weak almost pointless.
 
-* ?? lbs 1 1/4" #8 stainless wood screw  
-  ?? #8 stainless washers  
+* Fastener "A" - 1/2" plywood to 2x2 beams  
+  1-1/2" #8 stainless phillips flat-head wood screw  
+  1/4"x5/8" stainless washer  
 
-1/4-20 stainless screws (long)  
-1/4" stainless whashers  
-1/4-20 stainless T-nuts  
-anti-seize  
+* Fastener "B" - 3/4" plywood to 2x2 beams  
+  1-3/4" #8 stainless phillips flat-head wood screw  
+  1/4"x5/8" stainless washer  
 
-carpet  
-staples  
-heat shield  
-alu flat stock and tow strap for handles  
-... more
+* Fastener "C" - removable, baffle box to main wall  
+  1/4-20 x 4" stainless screw phillips pan head  
+  1/4"x1" stainless whasher  
+  1/4-20 stainless T-nut  
+  anti-seize  
 
+* Fastener "D" - removable, side walls to end walls  
+  1/4-20 x 2-1/2" stainless screw phillips pan head  
+  1/4"x1" stainless whasher  
+  1/4-20 stainless T-nut  
+  anti-seize  
 
- 
-
+Other materials:  
+ thin indoor/outdoor carpet  
+ thick shag carpet  
+ staples/glue for carpet  
+ heat shield for exhaust  
+  I used:  
+   silicone glue  
+   aluminum foil  
+   fiberglass torch mat  
+   metal screen  
+  Maybe a better ways is:  
+   1 or two stiff sheet aluminum  
+   bolted to box with washers for air gap  
+   maybe high temp silicone to damp the sheet vibrating  
+   Simpler to build and more robust, but the rigid sheet may collect sound and transmit through bolts right to the outside surface of the box.  
+ handles  
+  aluminum flat stock
+  tow strap  
+ deck paint - todo, research pressure-treated compatible, marine alternatives?
+ heavy screen over fan output - safety for fingers and objects, the fan is dangerous  
+ light screen over exterior inlet and outlet - just to keep animals out  
+ weather stripping on lid
 
 ## TODO
 * Power cord routing and access to outlets  
@@ -170,11 +202,12 @@ alu flat stock and tow strap for handles
 * Light  
 * Better tool storage  
 * Wireless thermometer (maybe grill thermometer?)  
-* Generator cord winding pegs on the non-exhaust side panel? Don't want pegs which stick out during storage, so they have to fold out or be removable  
+* Generator cord winding pegs on the non-exhaust side panel? Don't want pegs which stick out during storage, so they have to fold out or be removable, but we don't want any holes in the panel nor any moving parts that can rattle.  
 * Plans & Directions for building.  
  Plywood sheet cuts layouts.  
  Sequence, what attaches to what first. Which parts go together in sub-assemblies.  
  Placement of drill holes, wood screws, T-nuts & machine screws.  
  Assembly/disassembly.  
- Demonstrate features such as removable outer boxes, fan replacement.
-* Y power cord with dual Nema 5-15P plugs to get 220v from two 110v outlets for a 220v fan. This would allow using a more efficient 220v fan, and spread the load from the fan evenly across both windings, while still leaving the twist-lock connector free for the main genertor cord.
+ Demonstrate features such as removable outer boxes, fan replacement.  
+* Y power cord with dual Nema 5-15P plugs to get 220v from two 110v outlets for a 220v fan. This would allow using a more efficient 220v fan, and spread the load from the fan evenly across both windings, while still leaving the twist-lock connector free for the main genertor cord.  
+* Metric version of everything  
