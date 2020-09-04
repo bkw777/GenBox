@@ -16,7 +16,7 @@ Generator Enclosure that's both quiet and ventilated.
 
 ## Main Components / Sub-Assemblies
 
-| Baffle Box. Build 2 identical copies of these |
+| Baffle Box. Build 2 of these |
 | --- |
 | ![](img/Baffle_Box_inside_1.jpg) |
 | ![](img/Baffle_Box_inside_2.jpg) |
