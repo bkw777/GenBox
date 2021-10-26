@@ -61,7 +61,11 @@ Generator Enclosure that's both quiet and ventilated.
 | ![](img/Lid_top_trans.jpg) |
 | ![](img/Lid_under.jpg) |
 
-<b>Photos: https://goo.gl/photos/VuZsvcwMcuBNV2xo6<b>
+<b>Photos: https://goo.gl/photos/VuZsvcwMcuBNV2xo6</b>
+
+The main cad file is <b>Assembly.FCStd</b>
+
+Requires [FreeCAD](https://www.freecadweb.org/) and the [Assembly4](https://wiki.freecadweb.org/Assembly4_Workbench) plugin.
 
 ## Theory of Operation
 * The main interior box is simple, with no exhaust piping breaking the barrier from inside to outside.  
